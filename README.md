@@ -9,7 +9,8 @@ cannot get enough of the pain. pain for the pain gods. my verilog code is public
 ## things
 * [dotfiles]: my dotfiles managed with stow. i use sway, foot, waybar and zsh,
 on gentoo btw (once again, pain for the pain gods).
-* [meowsh]: a shell written in rust. incredibly incomplete, literally just  a
+* [meowsh]: a shell written in rust. incredibly incomplete, literally just a 
+prompt.
 * [markdown-parser]: a markdown parser written in rust. also incomplete, but
 at least it's fast.
 * you can find other things on my [github], [gitlab], and [codeberg].
